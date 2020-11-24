@@ -34,7 +34,7 @@ namespace Condicionais_Combustivel
                     break;
 
                 case "G":
-                    Console.WriteLine("O valor total a ser pago (com desconto aplicado) é de: R$ "+CalculocDes(quantC, gasolina, descAl1, descAl2));
+                    Console.WriteLine("O valor total a ser pago (com desconto aplicado) é de: R$ "+CalculocDes(quantC, gasolina, descG1, descG2));
                     break;
 
                 default:
