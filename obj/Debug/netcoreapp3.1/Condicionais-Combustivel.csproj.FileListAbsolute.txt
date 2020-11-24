@@ -1,0 +1,13 @@
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Lista de exercicios 23-11\Condicionais-Combustivel\bin\Debug\netcoreapp3.1\Condicionais-Combustivel.exe
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Lista de exercicios 23-11\Condicionais-Combustivel\bin\Debug\netcoreapp3.1\Condicionais-Combustivel.deps.json
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Lista de exercicios 23-11\Condicionais-Combustivel\bin\Debug\netcoreapp3.1\Condicionais-Combustivel.runtimeconfig.json
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Lista de exercicios 23-11\Condicionais-Combustivel\bin\Debug\netcoreapp3.1\Condicionais-Combustivel.runtimeconfig.dev.json
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Lista de exercicios 23-11\Condicionais-Combustivel\bin\Debug\netcoreapp3.1\Condicionais-Combustivel.dll
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Lista de exercicios 23-11\Condicionais-Combustivel\bin\Debug\netcoreapp3.1\Condicionais-Combustivel.pdb
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Lista de exercicios 23-11\Condicionais-Combustivel\obj\Debug\netcoreapp3.1\Condicionais-Combustivel.csprojAssemblyReference.cache
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Lista de exercicios 23-11\Condicionais-Combustivel\obj\Debug\netcoreapp3.1\Condicionais-Combustivel.AssemblyInfoInputs.cache
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Lista de exercicios 23-11\Condicionais-Combustivel\obj\Debug\netcoreapp3.1\Condicionais-Combustivel.AssemblyInfo.cs
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Lista de exercicios 23-11\Condicionais-Combustivel\obj\Debug\netcoreapp3.1\Condicionais-Combustivel.csproj.CoreCompileInputs.cache
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Lista de exercicios 23-11\Condicionais-Combustivel\obj\Debug\netcoreapp3.1\Condicionais-Combustivel.dll
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Lista de exercicios 23-11\Condicionais-Combustivel\obj\Debug\netcoreapp3.1\Condicionais-Combustivel.pdb
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Lista de exercicios 23-11\Condicionais-Combustivel\obj\Debug\netcoreapp3.1\Condicionais-Combustivel.genruntimeconfig.cache
